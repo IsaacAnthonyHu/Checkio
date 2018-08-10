@@ -19,17 +19,31 @@
 
 
 def to_encrypt(text, delta):
+	alpha_list = list('abcdefghijklmnopqrstuvwxyz')
+	output_list = []
+	for charactor in text:
+		if charactor == ' ':
+			output_list.append(' ')
+		else:
+			index_number = alpha_list.index(charactor)+delta
+			if index_number > 25:
+				index_number = index_number-26
+			output_list.append(alpha_list[index_number])
+	return ''.join(output_list)
 
-    return text
+
+# -----
+
+# -----
 
 if __name__ == '__main__':
-    print("Example:")
-    print(to_encrypt('abc', 10))
+	print("Example:")
+	print(to_encrypt('abc', 10))
 
-    #These "asserts" using only for self-checking and not necessary for auto-testing
-    assert to_encrypt("a b c", 3) == "d e f"
-    assert to_encrypt("a b c", -3) == "x y z"
-    assert to_encrypt("simple text", 16) == "iycfbu junj"
-    assert to_encrypt("important text", 10) == "swzybdkxd dohd"
-    assert to_encrypt("state secret", -13) == "fgngr frperg"
-    print("Coding complete? Click 'Check' to earn cool rewards!")
+	# These "asserts" using only for self-checking and not necessary for auto-testing
+	assert to_encrypt("a b c", 3) == "d e f"
+	assert to_encrypt("a b c", -3) == "x y z"
+	assert to_encrypt("simple text", 16) == "iycfbu junj"
+	assert to_encrypt("important text", 10) == "swzybdkxd dohd"
+	assert to_encrypt("state secret", -13) == "fgngr frperg"
+	print("Coding complete? Click 'Check' to earn cool rewards!")
