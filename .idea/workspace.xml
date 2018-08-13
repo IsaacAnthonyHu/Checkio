@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a823d798-f467-4398-addc-85704e6f5fe3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Home/Pawn_Brotherhood.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a823d798-f467-4398-addc-85704e6f5fe3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,16 +40,16 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="2261" />
+          <entry key="Python Console" value="2289" />
           <entry key="dummy" value="7" />
           <entry key="py" value="1829" />
-          <entry key="txt" value="117" />
+          <entry key="txt" value="145" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="124" />
-          <entry key="Python" value="4090" />
+          <entry key="PLAIN_TEXT" value="152" />
+          <entry key="Python" value="4118" />
         </counts>
       </usages-collector>
     </session>
@@ -136,7 +133,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="7" fullScreen="true">
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -311,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1533876959262</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add Pawn_Brotherhood and Best Solution">
+      <created>1534165451512</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1534165451512</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -389,7 +393,8 @@
     <MESSAGE value="Add Long_Repeat" />
     <MESSAGE value="Add Caeser_Cipher_Encryptor" />
     <MESSAGE value="Add Caeser_Cipher_Encryptor Solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Caeser_Cipher_Encryptor Solution" />
+    <MESSAGE value="Add Pawn_Brotherhood and Best Solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Pawn_Brotherhood and Best Solution" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="breakpointLogExpression">
