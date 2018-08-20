@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a823d798-f467-4398-addc-85704e6f5fe3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Elementary/The_Most_Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elementary/Even_the_Last.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,8 +13,9 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Checkio$House_Password.coverage" NAME="House_Password Coverage Results" MODIFIED="1534668503732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Home" />
-    <SUITE FILE_PATH="coverage/Checkio$Between_Markers.coverage" NAME="Between_Markers Coverage Results" MODIFIED="1534763339495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Elementary" />
+    <SUITE FILE_PATH="coverage/Checkio$Between_Markers.coverage" NAME="Between_Markers Coverage Results" MODIFIED="1534764529591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Elementary" />
     <SUITE FILE_PATH="coverage/Checkio$The_Warriors.coverage" NAME="The_Warriors Coverage Results" MODIFIED="1534754745051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Home" />
+    <SUITE FILE_PATH="coverage/Checkio$Even_the_Last.coverage" NAME="Even_the_Last Coverage Results" MODIFIED="1534764779483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Elementary" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1362943706">
@@ -30,26 +31,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="18" />
+          <entry key="py" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="18" />
+          <entry key="Python" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="1590" />
+          <entry key="Python Console" value="1695" />
           <entry key="dummy" value="7" />
-          <entry key="py" value="1904" />
-          <entry key="txt" value="139" />
+          <entry key="py" value="2010" />
+          <entry key="txt" value="155" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="146" />
-          <entry key="Python" value="3494" />
+          <entry key="PLAIN_TEXT" value="162" />
+          <entry key="Python" value="3705" />
         </counts>
       </usages-collector>
     </session>
@@ -92,10 +93,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Elementary/The_Most_Numbers.py">
+        <entry file="file://$PROJECT_DIR$/Elementary/Even_the_Last.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="30" column="16" lean-forward="true" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+            <state relative-caret-position="293">
+              <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -138,6 +139,7 @@
         <option value="$PROJECT_DIR$/Elementary/Bigger_Price.py" />
         <option value="$PROJECT_DIR$/Elementary/Fizz_Buzz.py" />
         <option value="$PROJECT_DIR$/Elementary/The_Most_Numbers.py" />
+        <option value="$PROJECT_DIR$/Elementary/Even_the_Last.py" />
       </list>
     </option>
   </component>
@@ -206,7 +208,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Between_Markers">
+  <component name="RunManager" selected="Python.Even_the_Last">
     <configuration name="Between_Markers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Checkio" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -221,6 +223,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Elementary/Between_Markers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Even_the_Last" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Checkio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Elementary" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Elementary/Even_the_Last.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,9 +301,11 @@
       <item itemvalue="Python.House_Password" />
       <item itemvalue="Python.The_Warriors" />
       <item itemvalue="Python.Between_Markers" />
+      <item itemvalue="Python.Even_the_Last" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Even_the_Last" />
         <item itemvalue="Python.Between_Markers" />
         <item itemvalue="Python.The_Warriors" />
         <item itemvalue="Python.House_Password" />
@@ -416,7 +442,14 @@
       <option name="project" value="LOCAL" />
       <updated>1534761937524</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Add The_Most_Numbers Solution">
+      <created>1534763547175</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1534763547175</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TodoView">
@@ -474,7 +507,8 @@
     <MESSAGE value="Add The_Warriors Solution" />
     <MESSAGE value="Add Bigger_Price Solution" />
     <MESSAGE value="Add Fizz_Buzz Solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Fizz_Buzz Solution" />
+    <MESSAGE value="Add The_Most_Numbers Solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add The_Most_Numbers Solution" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="setValue">
@@ -608,8 +642,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Elementary/The_Most_Numbers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="30" column="16" lean-forward="true" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+        <state relative-caret-position="316">
+          <caret line="29" column="18" lean-forward="true" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elementary/Even_the_Last.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
         </state>
       </provider>
     </entry>
