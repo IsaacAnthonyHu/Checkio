@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a823d798-f467-4398-addc-85704e6f5fe3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Elementary/Bigger_Price.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elementary/Fizz_Buzz.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,7 +13,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Checkio$House_Password.coverage" NAME="House_Password Coverage Results" MODIFIED="1534668503732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Home" />
-    <SUITE FILE_PATH="coverage/Checkio$Between_Markers.coverage" NAME="Between_Markers Coverage Results" MODIFIED="1534761254732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Elementary" />
+    <SUITE FILE_PATH="coverage/Checkio$Between_Markers.coverage" NAME="Between_Markers Coverage Results" MODIFIED="1534761870166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Elementary" />
     <SUITE FILE_PATH="coverage/Checkio$The_Warriors.coverage" NAME="The_Warriors Coverage Results" MODIFIED="1534754745051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Home" />
   </component>
   <component name="FUSProjectUsageTrigger">
@@ -30,26 +30,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="16" />
+          <entry key="py" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="16" />
+          <entry key="Python" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="1573" />
+          <entry key="Python Console" value="1590" />
           <entry key="dummy" value="7" />
-          <entry key="py" value="1655" />
-          <entry key="txt" value="117" />
+          <entry key="py" value="1784" />
+          <entry key="txt" value="130" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="124" />
-          <entry key="Python" value="3228" />
+          <entry key="PLAIN_TEXT" value="137" />
+          <entry key="Python" value="3374" />
         </counts>
       </usages-collector>
     </session>
@@ -92,10 +92,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Elementary/Bigger_Price.py">
+        <entry file="file://$PROJECT_DIR$/Elementary/Fizz_Buzz.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+            <state relative-caret-position="372">
+              <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -136,6 +136,7 @@
         <option value="$PROJECT_DIR$/Elementary/Best_Stock.py" />
         <option value="$PROJECT_DIR$/Elementary/Popular_Words.py" />
         <option value="$PROJECT_DIR$/Elementary/Bigger_Price.py" />
+        <option value="$PROJECT_DIR$/Elementary/Fizz_Buzz.py" />
       </list>
     </option>
   </component>
@@ -400,7 +401,14 @@
       <option name="project" value="LOCAL" />
       <updated>1534759786025</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Add Bigger_Price Solution">
+      <created>1534761297762</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1534761297762</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TodoView">
@@ -456,7 +464,8 @@
     <MESSAGE value="Add Caeser_Cipher_Encryptor Solution" />
     <MESSAGE value="Add Sun_Angle and Best Solution" />
     <MESSAGE value="Add The_Warriors Solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add The_Warriors Solution" />
+    <MESSAGE value="Add Bigger_Price Solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Bigger_Price Solution" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="setValue">
@@ -578,6 +587,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elementary/Fizz_Buzz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
         </state>
       </provider>
     </entry>
