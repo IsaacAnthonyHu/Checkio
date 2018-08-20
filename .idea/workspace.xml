@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a823d798-f467-4398-addc-85704e6f5fe3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Elementary/Secret_Message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elementary/Three_Words.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,6 +15,7 @@
     <SUITE FILE_PATH="coverage/Checkio$House_Password.coverage" NAME="House_Password Coverage Results" MODIFIED="1534668503732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Home" />
     <SUITE FILE_PATH="coverage/Checkio$Between_Markers.coverage" NAME="Between_Markers Coverage Results" MODIFIED="1534764529591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Elementary" />
     <SUITE FILE_PATH="coverage/Checkio$The_Warriors.coverage" NAME="The_Warriors Coverage Results" MODIFIED="1534754745051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Home" />
+    <SUITE FILE_PATH="coverage/Checkio$Three_Words.coverage" NAME="Three_Words Coverage Results" MODIFIED="1534769961658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Elementary" />
     <SUITE FILE_PATH="coverage/Checkio$Secret_Message.coverage" NAME="Secret_Message Coverage Results" MODIFIED="1534765449356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Elementary" />
     <SUITE FILE_PATH="coverage/Checkio$Even_the_Last.coverage" NAME="Even_the_Last Coverage Results" MODIFIED="1534764779483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Elementary" />
   </component>
@@ -32,26 +33,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="21" />
+          <entry key="py" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="21" />
+          <entry key="Python" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="1695" />
+          <entry key="Python Console" value="2366" />
           <entry key="dummy" value="7" />
-          <entry key="py" value="2067" />
-          <entry key="txt" value="183" />
+          <entry key="py" value="2455" />
+          <entry key="txt" value="199" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="190" />
-          <entry key="Python" value="3762" />
+          <entry key="PLAIN_TEXT" value="206" />
+          <entry key="Python" value="4821" />
         </counts>
       </usages-collector>
     </session>
@@ -94,10 +95,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Elementary/Secret_Message.py">
+        <entry file="file://$PROJECT_DIR$/Elementary/Three_Words.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+            <state relative-caret-position="344">
+              <caret line="32" column="21" lean-forward="true" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+              <folding>
+                <marker date="1534769961588" expanded="true" signature="808:970" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -142,6 +146,7 @@
         <option value="$PROJECT_DIR$/Elementary/Even_the_Last.py" />
         <option value="$PROJECT_DIR$/Elementary/The_Most_Numbers.py" />
         <option value="$PROJECT_DIR$/Elementary/Secret_Message.py" />
+        <option value="$PROJECT_DIR$/Elementary/Three_Words.py" />
       </list>
     </option>
   </component>
@@ -210,7 +215,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Secret_Message">
+  <component name="RunManager" selected="Python.Three_Words">
     <configuration name="Between_Markers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Checkio" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -247,28 +252,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Elementary/Even_the_Last.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="House_Password" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Checkio" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Home" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Home/House_Password.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -321,20 +304,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Three_Words" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Checkio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Elementary" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Elementary/Three_Words.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.House_Password" />
       <item itemvalue="Python.The_Warriors" />
       <item itemvalue="Python.Between_Markers" />
       <item itemvalue="Python.Even_the_Last" />
       <item itemvalue="Python.Secret_Message" />
+      <item itemvalue="Python.Three_Words" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Three_Words" />
         <item itemvalue="Python.Secret_Message" />
         <item itemvalue="Python.Even_the_Last" />
         <item itemvalue="Python.Between_Markers" />
         <item itemvalue="Python.The_Warriors" />
-        <item itemvalue="Python.House_Password" />
       </list>
     </recent_temporary>
   </component>
@@ -489,7 +494,14 @@
       <option name="project" value="LOCAL" />
       <updated>1534764850572</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Add Secret_Message Solve">
+      <created>1534765482165</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1534765482165</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TodoView">
@@ -550,7 +562,8 @@
     <MESSAGE value="Add The_Most_Numbers Solution" />
     <MESSAGE value="Add Even_the_Last Solution" />
     <MESSAGE value="Add Error Solve" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Error Solve" />
+    <MESSAGE value="Add Secret_Message Solve" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Secret_Message Solve" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="setValue">
@@ -700,6 +713,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
           <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elementary/Three_Words.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="32" column="21" lean-forward="true" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+          <folding>
+            <marker date="1534769961588" expanded="true" signature="808:970" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
