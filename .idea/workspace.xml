@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a823d798-f467-4398-addc-85704e6f5fe3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Elementary/Right_to_Left.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elementary/Digits_Multiplication.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,6 +15,7 @@
     <SUITE FILE_PATH="coverage/Checkio$House_Password.coverage" NAME="House_Password Coverage Results" MODIFIED="1534668503732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Home" />
     <SUITE FILE_PATH="coverage/Checkio$Right_to_Left.coverage" NAME="Right_to_Left Coverage Results" MODIFIED="1534837663495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Elementary" />
     <SUITE FILE_PATH="coverage/Checkio$Index_Power.coverage" NAME="Index_Power Coverage Results" MODIFIED="1534834546575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Elementary" />
+    <SUITE FILE_PATH="coverage/Checkio$Digits_Multiplication.coverage" NAME="Digits_Multiplication Coverage Results" MODIFIED="1534838420821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Elementary" />
     <SUITE FILE_PATH="coverage/Checkio$Between_Markers.coverage" NAME="Between_Markers Coverage Results" MODIFIED="1534764529591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Elementary" />
     <SUITE FILE_PATH="coverage/Checkio$The_Warriors.coverage" NAME="The_Warriors Coverage Results" MODIFIED="1534754745051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Home" />
     <SUITE FILE_PATH="coverage/Checkio$Three_Words.coverage" NAME="Three_Words Coverage Results" MODIFIED="1534769961658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Elementary" />
@@ -36,26 +37,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="24" />
+          <entry key="py" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="24" />
+          <entry key="Python" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="2513" />
           <entry key="dummy" value="7" />
-          <entry key="py" value="2677" />
-          <entry key="txt" value="222" />
+          <entry key="py" value="2762" />
+          <entry key="txt" value="235" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="229" />
-          <entry key="Python" value="5190" />
+          <entry key="PLAIN_TEXT" value="242" />
+          <entry key="Python" value="5275" />
         </counts>
       </usages-collector>
     </session>
@@ -98,10 +99,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Elementary/Right_to_Left.py">
+        <entry file="file://$PROJECT_DIR$/Elementary/Digits_Multiplication.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="24" selection-start-line="24" selection-end-line="32" selection-end-column="22" />
+            <state relative-caret-position="377">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
@@ -149,6 +150,7 @@
         <option value="$PROJECT_DIR$/Elementary/Three_Words.py" />
         <option value="$PROJECT_DIR$/Elementary/Index_Power.py" />
         <option value="$PROJECT_DIR$/Elementary/Right_to_Left.py" />
+        <option value="$PROJECT_DIR$/Elementary/Digits_Multiplication.py" />
       </list>
     </option>
   </component>
@@ -217,8 +219,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Right_to_Left">
-    <configuration name="Even_the_Last" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Digits_Multiplication">
+    <configuration name="Digits_Multiplication" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Checkio" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,7 +233,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Elementary/Even_the_Last.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Elementary/Digits_Multiplication.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -329,19 +331,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Even_the_Last" />
       <item itemvalue="Python.Secret_Message" />
       <item itemvalue="Python.Three_Words" />
       <item itemvalue="Python.Index_Power" />
       <item itemvalue="Python.Right_to_Left" />
+      <item itemvalue="Python.Digits_Multiplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Digits_Multiplication" />
         <item itemvalue="Python.Right_to_Left" />
         <item itemvalue="Python.Index_Power" />
         <item itemvalue="Python.Three_Words" />
         <item itemvalue="Python.Secret_Message" />
-        <item itemvalue="Python.Even_the_Last" />
       </list>
     </recent_temporary>
   </component>
@@ -517,7 +519,14 @@
       <option name="project" value="LOCAL" />
       <updated>1534834583225</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Add Right_to_Left Solve">
+      <created>1534837788706</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1534837788706</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TodoView">
@@ -581,7 +590,8 @@
     <MESSAGE value="Add Secret_Message Solve" />
     <MESSAGE value="Add Three_Words Solve" />
     <MESSAGE value="Add Index_Power Solve" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Index_Power Solve" />
+    <MESSAGE value="Add Right_to_Left Solve" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Right_to_Left Solve" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="setValue">
@@ -742,8 +752,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Elementary/Right_to_Left.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="24" selection-start-line="24" selection-end-line="32" selection-end-column="22" />
+        <state relative-caret-position="278">
+          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elementary/Digits_Multiplication.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
