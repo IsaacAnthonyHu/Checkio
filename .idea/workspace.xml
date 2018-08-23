@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a823d798-f467-4398-addc-85704e6f5fe3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Electronic_Station/The_Hamming_Distance.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,7 +34,7 @@
     <session id="1362943706">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.21" value="2" />
@@ -63,12 +62,12 @@
           <entry key="Python Console" value="4806" />
           <entry key="dummy" value="7" />
           <entry key="py" value="5380" />
-          <entry key="txt" value="323" />
+          <entry key="txt" value="343" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="330" />
+          <entry key="PLAIN_TEXT" value="350" />
           <entry key="Python" value="10186" />
         </counts>
       </usages-collector>
@@ -110,17 +109,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Electronic_Station/The_Hamming_Distance.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
-              <caret line="33" column="31" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -598,7 +587,14 @@
       <option name="project" value="LOCAL" />
       <updated>1534947829557</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Add The_Hamming_Distance Solve">
+      <created>1535011680195</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1535011680195</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TodoView">
@@ -612,14 +608,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14765458" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49840257" visible="true" weight="0.32837301" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840257" weight="0.32837301" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39980158" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -629,7 +624,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50159746" side_tool="true" weight="0.32871288" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32952183" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4978701" weight="0.34325397" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.4978701" visible="true" weight="0.34325397" />
       <window_info anchor="bottom" id="Thumbnails" order="13" weight="0.32936507" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -669,7 +664,8 @@
     <MESSAGE value="Add Absolute_Sorting Solve" />
     <MESSAGE value="Add The_Most_Frequent Solve" />
     <MESSAGE value="Add Easy_Unpack Solve" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Easy_Unpack Solve" />
+    <MESSAGE value="Add The_Hamming_Distance Solve" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add The_Hamming_Distance Solve" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="setValue">
