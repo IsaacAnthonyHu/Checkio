@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a823d798-f467-4398-addc-85704e6f5fe3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Electronic_Station/The_Hamming_Distance.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,6 +19,7 @@
     <SUITE FILE_PATH="coverage/Checkio$House_Password.coverage" NAME="House_Password Coverage Results" MODIFIED="1534668503732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Home" />
     <SUITE FILE_PATH="coverage/Checkio$Right_to_Left.coverage" NAME="Right_to_Left Coverage Results" MODIFIED="1534837663495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Elementary" />
     <SUITE FILE_PATH="coverage/Checkio$Absolute_Sorting.coverage" NAME="Absolute_Sorting Coverage Results" MODIFIED="1534850371975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Elementary" />
+    <SUITE FILE_PATH="coverage/Checkio$The_Hamming_Distance.coverage" NAME="The_Hamming_Distance Coverage Results" MODIFIED="1535011277116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Electronic_Station" />
     <SUITE FILE_PATH="coverage/Checkio$Secret_Message.coverage" NAME="Secret_Message Coverage Results" MODIFIED="1534765449356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Elementary" />
     <SUITE FILE_PATH="coverage/Checkio$The_Most_Frequent.coverage" NAME="The_Most_Frequent Coverage Results" MODIFIED="1534851172542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Elementary" />
     <SUITE FILE_PATH="coverage/Checkio$Index_Power.coverage" NAME="Index_Power Coverage Results" MODIFIED="1534834546575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Elementary" />
@@ -36,38 +38,38 @@
           <entry key="project.closed" value="5" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.21" value="2" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="33" />
+          <entry key="py" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="32" />
+          <entry key="Python" value="33" />
           <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="4621" />
+          <entry key="Python Console" value="4806" />
           <entry key="dummy" value="7" />
-          <entry key="py" value="5168" />
+          <entry key="py" value="5380" />
           <entry key="txt" value="323" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="330" />
-          <entry key="Python" value="9789" />
+          <entry key="Python" value="10186" />
         </counts>
       </usages-collector>
     </session>
@@ -108,7 +110,17 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Electronic_Station/The_Hamming_Distance.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="33" column="31" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -162,6 +174,7 @@
         <option value="$PROJECT_DIR$/Elementary/The_Most_Frequent.py" />
         <option value="$PROJECT_DIR$/Elementary/Easy_Unpack.py" />
         <option value="$PROJECT_DIR$/Electronic_Station/Find_Sequence.py" />
+        <option value="$PROJECT_DIR$/Electronic_Station/The_Hamming_Distance.py" />
       </list>
     </option>
   </component>
@@ -236,7 +249,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Find_Sequence">
+  <component name="RunManager" selected="Python.The_Hamming_Distance">
     <configuration name="Absolute_Sorting" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Checkio" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -303,7 +316,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Number_Base" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="The_Hamming_Distance" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Checkio" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -311,12 +324,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Elementary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Electronic_Station" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Elementary/Number_Base.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Electronic_Station/The_Hamming_Distance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -348,19 +361,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Number_Base" />
       <item itemvalue="Python.Absolute_Sorting" />
       <item itemvalue="Python.The_Most_Frequent" />
       <item itemvalue="Python.Easy_Unpack" />
       <item itemvalue="Python.Find_Sequence" />
+      <item itemvalue="Python.The_Hamming_Distance" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.The_Hamming_Distance" />
         <item itemvalue="Python.Find_Sequence" />
         <item itemvalue="Python.Easy_Unpack" />
         <item itemvalue="Python.The_Most_Frequent" />
         <item itemvalue="Python.Absolute_Sorting" />
-        <item itemvalue="Python.Number_Base" />
       </list>
     </recent_temporary>
   </component>
@@ -599,13 +612,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14605543" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14765458" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840257" weight="0.32837301" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49840257" visible="true" weight="0.32837301" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39980158" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -850,10 +864,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Home/Long_Repeat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Electronic_Station/Find_Sequence.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        <state relative-caret-position="2632">
+          <caret line="109" column="12" lean-forward="true" selection-start-line="109" selection-start-column="12" selection-end-line="109" selection-end-column="12" />
           <folding>
             <marker date="1534947794327" expanded="true" signature="2032:2035" ph="..." />
             <marker date="1534947794327" expanded="true" signature="2257:2260" ph="..." />
@@ -861,10 +882,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Home/Long_Repeat.py">
+    <entry file="file://$PROJECT_DIR$/Electronic_Station/The_Hamming_Distance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        <state relative-caret-position="428">
+          <caret line="33" column="31" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="31" />
         </state>
       </provider>
     </entry>
