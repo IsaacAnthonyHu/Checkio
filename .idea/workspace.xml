@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a823d798-f467-4398-addc-85704e6f5fe3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Electronic_Station/Brackets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Electronic_Station/Restricted_Sum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,42 +36,43 @@
     <session id="1362943706">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="35" />
+          <entry key="py" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="34" />
+          <entry key="Python" value="36" />
           <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="5226" />
+          <entry key="Python Console" value="5334" />
           <entry key="dummy" value="7" />
-          <entry key="py" value="5691" />
-          <entry key="txt" value="343" />
+          <entry key="py" value="5861" />
+          <entry key="txt" value="359" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="350" />
-          <entry key="Python" value="10917" />
+          <entry key="PLAIN_TEXT" value="366" />
+          <entry key="Python" value="11195" />
         </counts>
       </usages-collector>
     </session>
@@ -114,10 +115,14 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Electronic_Station/Brackets.py">
+        <entry file="file://$PROJECT_DIR$/Electronic_Station/Restricted_Sum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+            <state relative-caret-position="446">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+              <folding>
+                <marker date="1535351811801" expanded="true" signature="589:591" ph="..." />
+                <marker date="1535351811801" expanded="true" signature="673:720" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -178,6 +183,7 @@
         <option value="$PROJECT_DIR$/Electronic_Station/Find_Sequence.py" />
         <option value="$PROJECT_DIR$/Electronic_Station/The_Hamming_Distance.py" />
         <option value="$PROJECT_DIR$/Electronic_Station/Brackets.py" />
+        <option value="$PROJECT_DIR$/Electronic_Station/Restricted_Sum.py" />
       </list>
     </option>
   </component>
@@ -199,7 +205,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -216,10 +221,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="python&#9;ACTION&#9;ActivatePythonConsoleToolWindow&#10;py&#9;ACTION&#9;ActivatePythonConsoleToolWindow&#10;command line&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="python&#9;ACTION&#9;ActivatePythonConsoleToolWindow&#10;sum&#9;null&#9;null&#10;py&#9;ACTION&#9;ActivatePythonConsoleToolWindow&#10;command line&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="full.screen.before.presentation.mode" value="false" />
@@ -603,7 +609,14 @@
       <option name="project" value="LOCAL" />
       <updated>1535011680195</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Add Brackets Solution">
+      <created>1535104951992</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1535104951992</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TodoView">
@@ -617,14 +630,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15085287" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15245202" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49840257" visible="true" weight="0.32837301" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840257" weight="0.32837301" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39980158" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -634,7 +646,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5026652" side_tool="true" weight="0.34325397" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32952183" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49733475" weight="0.34325397" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.49733475" visible="true" weight="0.34325397" />
       <window_info anchor="bottom" id="Thumbnails" order="13" weight="0.32936507" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -650,7 +662,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add House_Password Work" />
     <MESSAGE value="Add House_Password Best Solution" />
     <MESSAGE value="Add The_Most_Wanted_Letter Best Solution" />
     <MESSAGE value="Add Non_Unique_Elements and Best Solution" />
@@ -675,7 +686,8 @@
     <MESSAGE value="Add The_Most_Frequent Solve" />
     <MESSAGE value="Add Easy_Unpack Solve" />
     <MESSAGE value="Add The_Hamming_Distance Solve" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add The_Hamming_Distance Solve" />
+    <MESSAGE value="Add Brackets Solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Brackets Solution" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="setValue">
@@ -899,6 +911,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="321">
           <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/pkgs/sqlalchemy-1.1.13-py36h5948d12_0/Lib/site-packages/sqlalchemy/sql/functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="596" column="6" selection-start-line="596" selection-start-column="6" selection-end-line="596" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Electronic_Station/Restricted_Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <marker date="1535351811801" expanded="true" signature="589:591" ph="..." />
+            <marker date="1535351811801" expanded="true" signature="673:720" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
