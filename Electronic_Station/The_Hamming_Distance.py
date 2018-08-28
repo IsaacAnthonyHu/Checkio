@@ -36,6 +36,21 @@ def checkio(n, m):
 			a += 1
 	return a
 
+# ---
+
+
+def checkio_best_solution(n, m):
+	'''
+	这个方法太秀了，使用了二进制的异或运算，对比了两个数字对应的每一位，相同返回0，不同返回1，所以只要对返回值中的'1'计数即可，十分机智
+	:param n:
+	:param m:
+	:return:
+	'''
+	return bin(n ^ m).count('1')
+
+#---
+
+
 if __name__ == '__main__':
 	#These "asserts" using only for self-checking and not necessary for auto-testing
 	assert checkio(117, 17) == 3, "First example"

@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a823d798-f467-4398-addc-85704e6f5fe3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Electronic_Station/Find_Sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/Electronic_Station/Find_Sequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Electronic_Station/The_Hamming_Distance.py" beforeDir="false" afterPath="$PROJECT_DIR$/Electronic_Station/The_Hamming_Distance.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,27 +54,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="45" />
+          <entry key="py" value="47" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="44" />
+          <entry key="Python" value="46" />
           <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="5681" />
+          <entry key="Python Console" value="5811" />
           <entry key="dummy" value="7" />
-          <entry key="py" value="6740" />
-          <entry key="txt" value="396" />
+          <entry key="py" value="7228" />
+          <entry key="txt" value="421" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="403" />
-          <entry key="Python" value="12421" />
+          <entry key="PLAIN_TEXT" value="428" />
+          <entry key="Python" value="13039" />
         </counts>
       </usages-collector>
     </session>
@@ -117,16 +117,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Electronic_Station/Find_Sequence.py">
+        <entry file="file://$PROJECT_DIR$/Electronic_Station/The_Hamming_Distance.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1156">
-              <caret line="128" column="5" lean-forward="true" selection-start-line="128" selection-start-column="5" selection-end-line="128" selection-end-column="5" />
-              <folding>
-                <marker date="1535443695826" expanded="true" signature="2024:2027" ph="..." />
-                <marker date="1535443695826" expanded="true" signature="2249:2252" ph="..." />
-                <marker date="1535443695826" expanded="true" signature="2841:2842" ph="..." />
-                <marker date="1535443695826" expanded="true" signature="2841:2843" ph="..." />
-              </folding>
+            <state relative-caret-position="278">
+              <caret line="43" column="72" selection-start-line="43" selection-start-column="72" selection-end-line="43" selection-end-column="72" />
             </state>
           </provider>
         </entry>
@@ -184,11 +178,11 @@
         <option value="$PROJECT_DIR$/Elementary/Absolute_Sorting.py" />
         <option value="$PROJECT_DIR$/Elementary/The_Most_Frequent.py" />
         <option value="$PROJECT_DIR$/Elementary/Easy_Unpack.py" />
-        <option value="$PROJECT_DIR$/Electronic_Station/The_Hamming_Distance.py" />
         <option value="$PROJECT_DIR$/Electronic_Station/Brackets.py" />
         <option value="$PROJECT_DIR$/Electronic_Station/Restricted_Sum.py" />
         <option value="$PROJECT_DIR$/Electronic_Station/Roman_Numerial.py" />
         <option value="$PROJECT_DIR$/Electronic_Station/Find_Sequence.py" />
+        <option value="$PROJECT_DIR$/Electronic_Station/The_Hamming_Distance.py" />
       </list>
     </option>
   </component>
@@ -635,7 +629,21 @@
       <option name="project" value="LOCAL" />
       <updated>1535365001368</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Add Find_Sequence Best Solution">
+      <created>1535443759602</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1535443759602</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Add Find_Sequence Second Best Solution">
+      <created>1535446737931</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1535446737931</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TodoView">
@@ -651,7 +659,7 @@
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15565032" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15565032" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -666,7 +674,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5026652" side_tool="true" weight="0.34325397" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32952183" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49733475" weight="0.34325397" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.49733475" visible="true" weight="0.34325397" />
       <window_info anchor="bottom" id="Thumbnails" order="13" weight="0.32936507" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -706,8 +714,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Non_Unique_Elements and Best Solution" />
-    <MESSAGE value="Add Monkey_Typing and Best Solution" />
     <MESSAGE value="Add Long_Repeat" />
     <MESSAGE value="Add Caeser_Cipher_Encryptor" />
     <MESSAGE value="Add Caeser_Cipher_Encryptor Solution" />
@@ -731,7 +737,9 @@
     <MESSAGE value="Add Brackets Solution" />
     <MESSAGE value="Add Restrickted_Sum Solution" />
     <MESSAGE value="Add Roman_Numeral Other Solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Roman_Numeral Other Solution" />
+    <MESSAGE value="Add Find_Sequence Best Solution" />
+    <MESSAGE value="Add Find_Sequence Second Best Solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Find_Sequence Second Best Solution" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="setValue">
@@ -912,13 +920,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Electronic_Station/The_Hamming_Distance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="33" column="31" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/Anaconda/pkgs/sqlalchemy-1.1.13-py36h5948d12_0/Lib/site-packages/sqlalchemy/sql/functions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="327">
@@ -976,16 +977,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1310655275/itertools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-124">
+          <caret line="386" column="6" selection-start-line="386" selection-start-column="6" selection-end-line="386" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Electronic_Station/Find_Sequence.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="128" column="5" lean-forward="true" selection-start-line="128" selection-start-column="5" selection-end-line="128" selection-end-column="5" />
+        <state relative-caret-position="260">
+          <caret line="141" column="5" lean-forward="true" selection-start-line="141" selection-start-column="5" selection-end-line="141" selection-end-column="5" />
           <folding>
-            <marker date="1535443695826" expanded="true" signature="2024:2027" ph="..." />
-            <marker date="1535443695826" expanded="true" signature="2249:2252" ph="..." />
-            <marker date="1535443695826" expanded="true" signature="2841:2842" ph="..." />
-            <marker date="1535443695826" expanded="true" signature="2841:2843" ph="..." />
+            <marker date="1535446725449" expanded="true" signature="2024:2027" ph="..." />
+            <marker date="1535446725449" expanded="true" signature="2249:2252" ph="..." />
+            <marker date="1535446725449" expanded="true" signature="3090:3091" ph="..." />
+            <marker date="1535446725449" expanded="true" signature="3090:3092" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Electronic_Station/The_Hamming_Distance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="43" column="72" selection-start-line="43" selection-start-column="72" selection-end-line="43" selection-end-column="72" />
         </state>
       </provider>
     </entry>
