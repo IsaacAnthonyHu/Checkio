@@ -32,7 +32,7 @@
 #     ]) == True
 #
 # How it is used:
-# This concept is useful for games where you need to detect various lines of the same elements (match 3 games for example).
+# This concept is useful for games where you need to detect various lines of the same elements (3 games for example).
 # This algorithm can be used for basic pattern recognition.
 #
 # Precondition:
@@ -52,8 +52,6 @@ import re
 
 
 def checkio(matrix):
-
-
 	def element_process(target_matrix):  # 半个倾斜(half_lean)
 		index_matrix = [[(y, x) for x in range(len(target_matrix[0]))] for y in range(len(target_matrix[0]))]
 		a = []
@@ -108,6 +106,27 @@ def checkio(matrix):
 			a = True
 
 	return a
+
+
+# ---
+def checkio_best_solution(matrix):
+	N = len(matrix)
+	def seq_len(x, y, dx, dy, num):
+		if 0 <= x < N and 0 <= y < N and matrix[y][x] == num:
+			return 1 + seq_len(x + dx, y + dy, dx, dy, num)
+		else:
+			return 0
+
+	DIR = [(dx, dy) for dy in range(-1, 2)
+	                for dx in range(-1, 2)
+	                if dx != 0 or dy != 0]
+	for y in range(N):
+		for x in range(N):
+			for dx, dy in DIR:
+				if seq_len(x, y, dx, dy, matrix[y][x]) >= 4:
+					return True
+	return False
+# ---
 
 
 if __name__ == '__main__':
