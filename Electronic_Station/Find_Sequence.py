@@ -110,6 +110,14 @@ def checkio(matrix):
 
 # ---
 def checkio_best_solution(matrix):
+	'''
+	这个函数内定义的seq_len函数很精妙，整个函数会遍历整个数组中的每一个元素，
+	对每一个元素建立一个八方向的偏移量列表DIR，再对元素进行每一个偏移量的遍历，
+	若某方向的值与元素值相同则会在同方向上进行函数内循环，直到该方向上的值不在与元素值相同，这时返回该元素出现的数量。
+	最终判断出现数量的次数，若大于四返回True，若否则循环下一个偏移量方向，若最终无匹配则返回False。
+	:param matrix: 需要判断的数组
+	:return: 返回对应查找结果
+	'''
 	N = len(matrix)
 	def seq_len(x, y, dx, dy, num):
 		if 0 <= x < N and 0 <= y < N and matrix[y][x] == num:
@@ -120,6 +128,7 @@ def checkio_best_solution(matrix):
 	DIR = [(dx, dy) for dy in range(-1, 2)
 	                for dx in range(-1, 2)
 	                if dx != 0 or dy != 0]
+
 	for y in range(N):
 		for x in range(N):
 			for dx, dy in DIR:
@@ -128,6 +137,22 @@ def checkio_best_solution(matrix):
 	return False
 # ---
 
+# 使用基于itertools库下的groupby函数,groupby()把迭代器中相邻的重复元素挑出来放在一起：
+from itertools import groupby
+C = 4
+ex = lambda l: any(len(list(c)) >= C for x, c in groupby(l))
+
+def checkio_best_solution_1(A):
+	n = len(A)
+	return any(ex(row) for row in A) \
+		or any(ex([A[i][j] for i in range(n)]) for j in range(n)) \
+		or any(ex([A[k-i][i] for i in range(k+1)]) for k in range(C-1, n)) \
+		or any(ex([A[n-i-1][n-k+i-1] for i in range(k+1)]) for k in range(C-1, n-1)) \
+		or any(ex([A[n-k+i-1][i] for i in range(k+1)]) for k in range(C-1, n)) \
+		or any(ex([A[i][n-k+i-1] for i in range(k+1)]) for k in range(C-1, n-1))
+
+
+# ---
 
 if __name__ == '__main__':
 	#These "asserts" using only for self-checking and not necessary for auto-testing
