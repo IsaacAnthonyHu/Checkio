@@ -4,10 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/Electronic_Station/Find_Sequence.py" line="91" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a823d798-f467-4398-addc-85704e6f5fe3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Electronic_Station/The_Hamming_Distance.py" beforeDir="false" afterPath="$PROJECT_DIR$/Electronic_Station/The_Hamming_Distance.py" afterDir="false" />
-    </list>
+    <list default="true" id="a823d798-f467-4398-addc-85704e6f5fe3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +34,7 @@
     <session id="1362943706">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.21" value="2" />
@@ -68,12 +65,12 @@
           <entry key="Python Console" value="5811" />
           <entry key="dummy" value="7" />
           <entry key="py" value="7228" />
-          <entry key="txt" value="421" />
+          <entry key="txt" value="443" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="428" />
+          <entry key="PLAIN_TEXT" value="450" />
           <entry key="Python" value="13039" />
         </counts>
       </usages-collector>
@@ -115,17 +112,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Electronic_Station/The_Hamming_Distance.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="43" column="72" selection-start-line="43" selection-start-column="72" selection-end-line="43" selection-end-column="72" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -643,7 +630,14 @@
       <option name="project" value="LOCAL" />
       <updated>1535446737931</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Add The_Hamming_Distance Best Solution">
+      <created>1535453436554</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1535453436554</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TodoView">
@@ -657,7 +651,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15565032" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -714,7 +707,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Long_Repeat" />
     <MESSAGE value="Add Caeser_Cipher_Encryptor" />
     <MESSAGE value="Add Caeser_Cipher_Encryptor Solution" />
     <MESSAGE value="Add Sun_Angle and Best Solution" />
@@ -739,7 +731,8 @@
     <MESSAGE value="Add Roman_Numeral Other Solution" />
     <MESSAGE value="Add Find_Sequence Best Solution" />
     <MESSAGE value="Add Find_Sequence Second Best Solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Find_Sequence Second Best Solution" />
+    <MESSAGE value="Add The_Hamming_Distance Best Solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add The_Hamming_Distance Best Solution" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="setValue">
