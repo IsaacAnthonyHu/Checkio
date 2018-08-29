@@ -49,6 +49,28 @@ def checkio(expression):
 		return True
 
 
+
+#---
+
+
+def checkio_best_solution(data):
+	'''
+	这个思路也对，最靠内的左括号最接近的右括号一定是自己的
+	遇到左括号的顺序一定和遇到右括号的顺序相反
+	:param data:
+	:return:
+	'''
+	stack=[""]
+	brackets={"(":")","[":"]","{":"}"}
+	for c in data:
+		if c in brackets:
+			stack.append(brackets[c])
+		elif c in brackets.values() and c!=stack.pop():
+			return False
+	return stack==[""]
+
+#---
+
 #These "asserts" using only for self-checking and not necessary for auto-testing
 if __name__ == '__main__':
 	assert checkio("((5+3)*2+1)") == True, "Simple"
