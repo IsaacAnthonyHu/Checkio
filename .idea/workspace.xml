@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/Electronic_Station/Find_Sequence.py" line="91" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a823d798-f467-4398-addc-85704e6f5fe3" name="Default Changelist" comment="" />
+    <list default="true" id="a823d798-f467-4398-addc-85704e6f5fe3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Electronic_Station/Brackets.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_Electronic_Station/Brackets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Electronic_Station/Find_Sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_Electronic_Station/Find_Sequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Electronic_Station/Restricted_Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_Electronic_Station/Restricted_Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Electronic_Station/Roman_Numerial.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_Electronic_Station/Roman_Numerial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Electronic_Station/The_Hamming_Distance.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_Electronic_Station/The_Hamming_Distance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Elementary/Absolute_Sorting.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_Elementary/Absolute_Sorting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Elementary/Best_Stock.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_Elementary/2_Best_Stock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Elementary/Between_Markers.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_Elementary/1_Between_Markers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Elementary/Bigger_Price.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_Elementary/4_Bigger_Price.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Elementary/Digits_Multiplication.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_Elementary/Digits_Multiplication.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Elementary/Easy_Unpack.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_Elementary/Easy_Unpack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Elementary/Even_the_Last.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_Elementary/7_Even_the_Last.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Elementary/Fizz_Buzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_Elementary/5_Fizz_Buzz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Elementary/Index_Power.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_Elementary/Index_Power.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Elementary/Number_Base.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_Elementary/Number_Base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Elementary/Popular_Words.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_Elementary/3_Popular_Words.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Elementary/Right_to_Left.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_Elementary/Right_to_Left.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Elementary/Secret_Message.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_Elementary/8_Secret_Message.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Elementary/The_Most_Frequent.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_Elementary/The_Most_Frequent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Elementary/The_Most_Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_Elementary/6_The_Most_Numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Elementary/Three_Words.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_Elementary/9_Three_Words.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home/All_The_Same.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Home/6_All_The_Same.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home/Caesar_Cipher_Encryptor.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Home/7_Caesar_Cipher_Encryptor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home/House_Password.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Home/1_House_Password.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home/Long_Repeat.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Home/5_Long_Repeat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home/Monkey_Typing.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Home/4_Monkey_Typing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home/Non_Unique_Elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Home/3_Non_Unique_Elements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home/Pawn_Brotherhood.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Home/9_Pawn_Brotherhood.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home/Sun_Angle.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Home/8_Sun_Angle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home/The_Most_Wanted_Letter.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Home/2_The_Most_Wanted_Letter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home/The_Warriors.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Home/11_The_Warriors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home/The_Warriors_Clear_Solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Home/12_The_Warriors_Clear_Solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home/Xs_And_Os_Referee.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Home/10_Xs_And_Os_Referee.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,33 +77,33 @@
           <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="3" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.open.time.6" value="4" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="47" />
+          <entry key="py" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="46" />
+          <entry key="Python" value="49" />
           <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="5811" />
-          <entry key="dummy" value="7" />
-          <entry key="py" value="7228" />
-          <entry key="txt" value="443" />
+          <entry key="Python Console" value="6003" />
+          <entry key="dummy" value="56" />
+          <entry key="py" value="7336" />
+          <entry key="txt" value="451" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="450" />
-          <entry key="Python" value="13039" />
+          <entry key="PLAIN_TEXT" value="507" />
+          <entry key="Python" value="13339" />
         </counts>
       </usages-collector>
     </session>
@@ -165,11 +197,11 @@
         <option value="$PROJECT_DIR$/Elementary/Absolute_Sorting.py" />
         <option value="$PROJECT_DIR$/Elementary/The_Most_Frequent.py" />
         <option value="$PROJECT_DIR$/Elementary/Easy_Unpack.py" />
-        <option value="$PROJECT_DIR$/Electronic_Station/Brackets.py" />
         <option value="$PROJECT_DIR$/Electronic_Station/Restricted_Sum.py" />
         <option value="$PROJECT_DIR$/Electronic_Station/Roman_Numerial.py" />
         <option value="$PROJECT_DIR$/Electronic_Station/Find_Sequence.py" />
         <option value="$PROJECT_DIR$/Electronic_Station/The_Hamming_Distance.py" />
+        <option value="$PROJECT_DIR$/Electronic_Station/Brackets.py" />
       </list>
     </option>
   </component>
@@ -191,6 +223,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -201,13 +234,12 @@
             <path>
               <item name="Checkio" type="b2602c69:ProjectViewProjectNode" />
               <item name="Checkio" type="462c0819:PsiDirectoryNode" />
-              <item name="Electronic_Station" type="462c0819:PsiDirectoryNode" />
+              <item name="2_Elementary" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -637,7 +669,14 @@
       <option name="project" value="LOCAL" />
       <updated>1535453436554</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Add Brackets Best Solution">
+      <created>1535523843767</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1535523843767</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TodoView">
@@ -652,7 +691,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15565032" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15724947" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -667,7 +706,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5026652" side_tool="true" weight="0.34325397" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32952183" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.49733475" visible="true" weight="0.34325397" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49733475" visible="true" weight="0.34325397" />
       <window_info anchor="bottom" id="Thumbnails" order="13" weight="0.32936507" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -707,7 +746,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Caeser_Cipher_Encryptor" />
     <MESSAGE value="Add Caeser_Cipher_Encryptor Solution" />
     <MESSAGE value="Add Sun_Angle and Best Solution" />
     <MESSAGE value="Add The_Warriors Solution" />
@@ -732,7 +770,8 @@
     <MESSAGE value="Add Find_Sequence Best Solution" />
     <MESSAGE value="Add Find_Sequence Second Best Solution" />
     <MESSAGE value="Add The_Hamming_Distance Best Solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add The_Hamming_Distance Best Solution" />
+    <MESSAGE value="Add Brackets Best Solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Brackets Best Solution" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="setValue">
@@ -750,21 +789,21 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/babel/messages/frontend.py" />
-    <entry file="file://$PROJECT_DIR$/Home/House_Password.py">
+    <entry file="file://$PROJECT_DIR$/1_Home/1_House_Password.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="29" column="51" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Home/Monkey_Typing.py">
+    <entry file="file://$PROJECT_DIR$/1_Home/4_Monkey_Typing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
           <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Home/Non_Unique_Elements.py">
+    <entry file="file://$PROJECT_DIR$/1_Home/3_Non_Unique_Elements.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
@@ -772,133 +811,133 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/re.py" />
-    <entry file="file://$PROJECT_DIR$/Home/The_Most_Wanted_Letter.py">
+    <entry file="file://$PROJECT_DIR$/1_Home/2_The_Most_Wanted_Letter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="129">
           <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Home/Caesar_Cipher_Encryptor.py">
+    <entry file="file://$PROJECT_DIR$/1_Home/7_Caesar_Cipher_Encryptor.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Home/All_The_Same.py">
+    <entry file="file://$PROJECT_DIR$/1_Home/6_All_The_Same.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Home/Sun_Angle.py">
+    <entry file="file://$PROJECT_DIR$/1_Home/8_Sun_Angle.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="341">
           <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Home/The_Warriors.py">
+    <entry file="file://$PROJECT_DIR$/1_Home/11_The_Warriors.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="436">
           <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Home/The_Warriors_Clear_Solution.py">
+    <entry file="file://$PROJECT_DIR$/1_Home/12_The_Warriors_Clear_Solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
           <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Elementary/Best_Stock.py">
+    <entry file="file://$PROJECT_DIR$/2_Elementary/2_Best_Stock.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-112">
           <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Elementary/Between_Markers.py">
+    <entry file="file://$PROJECT_DIR$/2_Elementary/1_Between_Markers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="616">
           <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Elementary/Popular_Words.py">
+    <entry file="file://$PROJECT_DIR$/2_Elementary/3_Popular_Words.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="362">
           <caret line="44" column="14" lean-forward="true" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Elementary/Bigger_Price.py">
+    <entry file="file://$PROJECT_DIR$/2_Elementary/4_Bigger_Price.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Elementary/Fizz_Buzz.py">
+    <entry file="file://$PROJECT_DIR$/2_Elementary/5_Fizz_Buzz.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="372">
           <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Elementary/The_Most_Numbers.py">
+    <entry file="file://$PROJECT_DIR$/2_Elementary/6_The_Most_Numbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="349">
           <caret line="42" column="33" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Elementary/Even_the_Last.py">
+    <entry file="file://$PROJECT_DIR$/2_Elementary/7_Even_the_Last.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="265">
           <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Elementary/Secret_Message.py">
+    <entry file="file://$PROJECT_DIR$/2_Elementary/8_Secret_Message.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
           <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Elementary/Three_Words.py">
+    <entry file="file://$PROJECT_DIR$/2_Elementary/9_Three_Words.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="344">
           <caret line="32" column="21" lean-forward="true" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Elementary/Index_Power.py">
+    <entry file="file://$PROJECT_DIR$/2_Elementary/Index_Power.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="316">
           <caret line="24" selection-start-line="24" selection-end-line="31" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Elementary/Right_to_Left.py">
+    <entry file="file://$PROJECT_DIR$/2_Elementary/Right_to_Left.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
           <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Elementary/Digits_Multiplication.py">
+    <entry file="file://$PROJECT_DIR$/2_Elementary/Digits_Multiplication.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="349">
           <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Elementary/Number_Base.py">
+    <entry file="file://$PROJECT_DIR$/2_Elementary/Number_Base.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="39" column="17" lean-forward="true" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
@@ -906,7 +945,7 @@
       </provider>
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-    <entry file="file://$PROJECT_DIR$/Home/Long_Repeat.py">
+    <entry file="file://$PROJECT_DIR$/1_Home/5_Long_Repeat.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
@@ -920,53 +959,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Electronic_Station/Restricted_Sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-          <folding>
-            <marker date="1535351811801" expanded="true" signature="589:591" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Electronic_Station/Roman_Numerial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="38" column="7" lean-forward="true" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/Xs_And_Os_Referee.py">
+    <entry file="file://$PROJECT_DIR$/1_Home/10_Xs_And_Os_Referee.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1176" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Elementary/Easy_Unpack.py">
+    <entry file="file://$PROJECT_DIR$/2_Elementary/Easy_Unpack.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
           <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Elementary/The_Most_Frequent.py">
+    <entry file="file://$PROJECT_DIR$/2_Elementary/The_Most_Frequent.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="672">
           <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Elementary/Absolute_Sorting.py">
+    <entry file="file://$PROJECT_DIR$/2_Elementary/Absolute_Sorting.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="927">
           <caret line="36" column="38" lean-forward="true" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Electronic_Station/Brackets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -977,7 +992,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Electronic_Station/Find_Sequence.py">
+    <entry file="file://$PROJECT_DIR$/3_Electronic_Station/Find_Sequence.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="141" column="5" lean-forward="true" selection-start-line="141" selection-start-column="5" selection-end-line="141" selection-end-column="5" />
@@ -990,10 +1005,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Electronic_Station/The_Hamming_Distance.py">
+    <entry file="file://$PROJECT_DIR$/3_Electronic_Station/The_Hamming_Distance.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
           <caret line="43" column="72" selection-start-line="43" selection-start-column="72" selection-end-line="43" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_Electronic_Station/Brackets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="59" column="16" lean-forward="true" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_Electronic_Station/Restricted_Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <marker date="1535351811801" expanded="true" signature="589:591" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_Electronic_Station/Roman_Numerial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="35" selection-start-line="35" selection-end-line="46" selection-end-column="14" />
         </state>
       </provider>
     </entry>
