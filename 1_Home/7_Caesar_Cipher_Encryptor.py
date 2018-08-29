@@ -34,6 +34,15 @@ def to_encrypt(text, delta):
 
 # -----
 
+
+def encrypt(char, delta):
+	if char == " ":
+		return " "
+	else:
+		return chr(((ord(char) - 97 + delta) % 26) + 97)
+
+def to_encrypt_solution(text, delta):
+	return ("").join([encrypt(x, delta) for x in text])
 # -----
 
 if __name__ == '__main__':
