@@ -57,3 +57,6 @@ def sun_angle_best_solution(time):
 ```
 
 ## 9_Pawn_Brotherhood
+Null
+
+## 10_Xs_And_Os_Referee
