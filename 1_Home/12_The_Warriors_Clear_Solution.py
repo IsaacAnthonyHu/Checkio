@@ -4,7 +4,7 @@ class Warrior:
 		self.health = 50
 		self.attack = 5
 
-	@property
+	@property # 通过@property装饰器将方法变成属性
 	def is_alive(self) -> bool:
 		return self.health > 0
 
@@ -12,7 +12,7 @@ class Warrior:
 class Knight(Warrior):
 
 	def __init__(self):
-		super().__init__()
+		super().__init__() # 通过super()调用父类,进而调用父类方法
 		self.attack = 7
 
 
